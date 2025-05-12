@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "Иван Иванов",
+    "position": "Python-разработчик",
+    "skills": "python, flask, sqlalchemy",
+    "picture": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 2,
+    "name": "Анна Смирнова",
+    "position": "Frontend-разработчик",
+    "skills": "html, css, javascript",
+    "picture": "https://via.placeholder.com/150"
+  }
+]
